@@ -1,6 +1,6 @@
 ## An election twitterbot in Python and R
 
-A NICAR2020 workshop led by (Wes Stephenson)[https://twitter.com/wesstephenson] and [Alison Benjamin](https://twitter.com/hey_benjamin)
+By [Wes Stephenson](https://twitter.com/wesstephenson) and [Alison Benjamin](https://twitter.com/hey_benjamin).
 
 ### Setup
 
@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 make run_twitterbot
 ```
 
-### Run 
+### Run 
 
 ```
 make run_twitterbot
